@@ -58,6 +58,24 @@ h2{
 
 }
 
+
+#infos{
+	background-color: white;
+	padding-bottom: 3em;
+	padding-top: 3em;
+	padding-left: 2em;
+	padding-right: 2em;
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	color: black;
+
+}
+
+.btn{
+	margin: 4px
+}
+
 .travel{
 	border-radius: 50%;
 	border: 2px solid black;
