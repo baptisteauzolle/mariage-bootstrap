@@ -1,0 +1,67 @@
+body {
+	font-family: "open sans";
+}
+
+.navbar-transparent {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+#wrapper{
+	background-image: url(../images/maetbat2.jpg);
+	height: 750px;
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px;
+	color: white;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 20);
+}
+
+h1{
+	font-size: 72px;
+	padding-bottom: 1em;
+}
+
+h2{
+	font-size: 32px;
+	padding-bottom: 3em;
+}
+	
+.spacer{
+	height: 8em;
+}
+
+#teasing{
+	background-color: #F6B352;
+	padding-bottom: 3em;
+	padding-top: 3em;
+	padding-left: 2em;
+	padding-right: 2em;
+	color: white;
+	text-align: center;
+	font-size: 18px
+
+}
+
+.travel{
+	border-radius: 50%;
+	border: 2px solid black;
+	width: 60px;
+	padding: 6px;
+	margin: 2em;
+}
+
+
+#footer {
+	background-color: black;
+	color: #aaaaaa;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+#footer a {
+	color: #aaaaaa 
+}
+
+#footer a:hover { 
+	color: #dddddd 
+}
