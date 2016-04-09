@@ -6,6 +6,22 @@ body {
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
+.navbar-transparent {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-transparent .navbar-brand,
+.navbar-transparent .navbar-nav > li > a {
+  color: #eeeeee;
+  line-height: 20px;
+}
+
+.navbar-transparent .navbar-brand:hover,
+.navbar-transparent .navbar-brand:active,
+.navbar-transparent .navbar-brand:focus {
+  color: white;
+}
+
 #wrapper{
 	background-image: url(../images/maetbat2.jpg);
 	height: 750px;
